@@ -1,1 +1,1 @@
-# Simple template using gulp.
+# Simple landing page built with gulp
